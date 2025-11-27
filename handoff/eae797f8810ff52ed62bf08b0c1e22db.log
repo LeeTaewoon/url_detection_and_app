@@ -1,0 +1,8 @@
+[1/3] capde2: url_based_detection.py 실행 (URL: https://www.kctv.info/)
+테스트할 URL을 입력하세요 (종료하려면 'exit' 입력): /home/taewoon/anaconda3/envs/capde2/lib/python3.10/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+URL: https://www.kctv.info/
+예측 결과: 정상 URL
+
+테스트할 URL을 입력하세요 (종료하려면 'exit' 입력): 프로그램을 종료합니다.
+⚠️ url-based 결과를 판별할 수 없습니다. (소요시간: 4s)

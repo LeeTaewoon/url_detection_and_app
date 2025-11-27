@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fakeium": "^0.0.7",
+    "puppeteer": "^24.15.0"
+  }
+}

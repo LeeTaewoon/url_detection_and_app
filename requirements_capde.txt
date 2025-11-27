@@ -1,0 +1,14 @@
+# 기본 ML 환경
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.1.3
+joblib==1.2.0
+
+# 콘텐츠 분석 관련
+requests==2.28.2
+beautifulsoup4==4.11.2
+lxml==4.9.3
+
+# 기타
+dnspython==2.3.0
+
